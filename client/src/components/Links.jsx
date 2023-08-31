@@ -7,7 +7,7 @@ import Payment from './Payment';
 
 const Links = () => {
 
-  document.title = "Suryansh";
+  document.title = "IamSrHEll";
 
   return (
     <div className='bg-hero flex flex-col justify-center items-center h-screen'>
